@@ -1,0 +1,5 @@
+model\Dictionary.class
+controller\DictionaryController.class
+model\Token.class
+model\Product.class
+model\Word.class
